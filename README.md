@@ -9,4 +9,6 @@ Another test repository
 
 ### Fourth attempt- just rebooted my computer
 
+### This is being operated from my laptop via RStudio. THe folder on my laptop is in Documents/R git2/
+
 
